@@ -52,7 +52,7 @@ The Violin plot class initializes an object that builds a GUI for an analysis wo
 <br>
 <table border="0">
  <tr>
-    <td><img alt="image" src="docs/_static/violin_plot_ui.png"></td>
+    <td><img alt="image" src="docs/source/_static/violin_plot_ui.png"></td>
  </tr>
  <tr>
     <td>Figure 1. User Interface of the Violin plot add-on.</td>
