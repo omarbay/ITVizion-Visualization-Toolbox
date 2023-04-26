@@ -31,7 +31,7 @@ The latest build of the project can be found [here](https://pypi) as a wheel fil
 file is published as a courtesy to the user, and it does not imply any obligation for support from the publisher.
 
 1. Create a **new** Seeq Data Lab project and open the **Terminal** window
-2. Run `pip install ITV_visual`
+2. Run `pip install (tobedetermined)`
 3. Import and use preferred classes in your python scripts by providing only the workbook url
 
 or use directly as an add-on through the preferred seeq workbook.
