@@ -1,6 +1,0 @@
-# Introduction
-
-**ITV-visual** is a Python module to visualize selected signals of a workbook in a variety of plots. The package offers a static and an interactive version of a pairplot, 
-distribution plots, line plots and violin plots. After applying the necessary data transformations, the former plots are a practical and direct way of understanding the distribution of the data
-per parameter and identifying their relationships. The module includes a user interface (UI) designed to interact with the Seeq server. Specifically, the UI can be installed as an Add-on Tool
-in Seeq Workbench.
