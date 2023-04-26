@@ -10,6 +10,17 @@ A general overview of the motivation for, benefits and functionality of the tool
 
 The Violin plot class initializes an object that builds a GUI for an analysis worksheet provided through its URL. The GUI displays a violin plot, distribution plot and line plot of available signals.
 
+
+
+<video width="560" height="340" controls>
+  <source src="_static/Violin Plot.MOV" type="video/mp4">
+</video>
+
+
+
+Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below. 
+
+
 <br>
 <table border="0">
  <tr>
@@ -21,7 +32,6 @@ The Violin plot class initializes an object that builds a GUI for an analysis wo
 </table>
 <br>
 
-Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below. 
 
 Furthermore, the "Sampling Interval" field provides for an interval to sample the signals' data. The user can fill the field using a variety of options, from seconds, to days and months. Then, the start and end date of the data need to be selected.
 
@@ -39,6 +49,16 @@ Lastly, a static line plot is generated for all the plots and shown at the botto
 
 The Pairplot_interactive class initializes an object that builds a GUI for an analysis worksheet provided through its URL. The GUI displays a pairplot of available signals and allows users to select signals, generate plots and colour by the desired string column. 
 
+
+
+<video width="560" height="340" controls>
+  <source src="_static/Interactive pair plot.MOV" type="video/mp4">
+</video>
+
+
+
+Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below. 
+
 <br>
 <table border="0">
  <tr>
@@ -50,7 +70,6 @@ The Pairplot_interactive class initializes an object that builds a GUI for an an
 </table>
 <br>
 
-Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below. 
 
 Furthermore, the "Sampling Interval" field provides for an interval to sample the signals' data. The user can fill the field using a variety of options, from seconds, to days and months. Then, the start and end date of the data need to be selected.
 
@@ -76,6 +95,17 @@ On the plot, the user can hover over the violin plot in order to access the valu
 The Pairplot class initializes an object that builds a GUI for an analysis worksheet provided through its URL. The GUI displays a static pairplot and line plot of available signals and allows users to select signals, generate plots and colour by the desired string column.
 
 
+
+<video width="560" height="340" controls>
+  <source src="_static/Pair Plot.mov" type="video/mp4">
+</video>
+
+
+
+
+Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below. 
+
+
 <br>
 <table border="0">
  <tr>
@@ -88,8 +118,6 @@ The Pairplot class initializes an object that builds a GUI for an analysis works
 <br>
 
 
-
-Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below. 
 
 Furthermore, the "Sampling Interval" field provides for an interval to sample the signals' data. The user can fill the field using a variety of options, from seconds, to days and months. Then, the start and end date of the data need to be selected.
 

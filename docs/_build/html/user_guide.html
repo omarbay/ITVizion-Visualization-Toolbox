@@ -12,8 +12,10 @@
   <![endif]-->
   
         <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="_static/doctools.js"></script>
-        <script src="_static/sphinx_highlight.js"></script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -47,7 +49,6 @@
               <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="introduction.html">Introduction</a></li>
-<li class="toctree-l1"><a class="reference internal" href="installation.html">Installation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="documentation.html">Documentation</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">User Guide</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#overview">Overview</a></li>
@@ -94,6 +95,10 @@
 <section id="violin-plot">
 <h2>Violin Plot<a class="headerlink" href="#violin-plot" title="Permalink to this heading"></a></h2>
 <p>The Violin plot class initializes an object that builds a GUI for an analysis worksheet provided through its URL. The GUI displays a violin plot, distribution plot and line plot of available signals.</p>
+<video width="560" height="340" controls>
+  <source src="_static/Violin Plot.MOV" type="video/mp4">
+</video>
+<p>Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below.</p>
 <br>
 <table border="0">
  <tr>
@@ -104,7 +109,6 @@
  </tr>
 </table>
 <br>
-<p>Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below.</p>
 <p>Furthermore, the “Sampling Interval” field provides for an interval to sample the signals’ data. The user can fill the field using a variety of options, from seconds, to days and months. Then, the start and end date of the data need to be selected.</p>
 <p>Finally, the last two checkboxes provide for:
 - <em>Normalize data</em>: data of each signal are subtracted their mean and divided by their standard deviation in order to bring them to a scale that allows for plotting them together in the same figure.
@@ -115,6 +119,10 @@
 <section id="interactive-pairplot">
 <h2>Interactive Pairplot<a class="headerlink" href="#interactive-pairplot" title="Permalink to this heading"></a></h2>
 <p>The Pairplot_interactive class initializes an object that builds a GUI for an analysis worksheet provided through its URL. The GUI displays a pairplot of available signals and allows users to select signals, generate plots and colour by the desired string column.</p>
+<video width="560" height="340" controls>
+  <source src="_static/Interactive pair plot.MOV" type="video/mp4">
+</video>
+<p>Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below.</p>
 <br>
 <table border="0">
  <tr>
@@ -125,7 +133,6 @@
  </tr>
 </table>
 <br>
-<p>Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below.</p>
 <p>Furthermore, the “Sampling Interval” field provides for an interval to sample the signals’ data. The user can fill the field using a variety of options, from seconds, to days and months. Then, the start and end date of the data need to be selected.</p>
 <p>After clicking the plotting button, if lexical expressions/string values are present in the data from the different signals, the add-on recognizes them and provides for a selection box that would colour the plot by the different values of the selected signal.</p>
 <br>
@@ -143,6 +150,10 @@
 <section id="static-pairplot">
 <h2>Static Pairplot<a class="headerlink" href="#static-pairplot" title="Permalink to this heading"></a></h2>
 <p>The Pairplot class initializes an object that builds a GUI for an analysis worksheet provided through its URL. The GUI displays a static pairplot and line plot of available signals and allows users to select signals, generate plots and colour by the desired string column.</p>
+<video width="560" height="340" controls>
+  <source src="_static/Pair Plot.mov" type="video/mp4">
+</video>
+<p>Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below.</p>
 <br>
 <table border="0">
  <tr>
@@ -153,7 +164,6 @@
  </tr>
 </table>
 <br>
-<p>Through the interface, the user has the ability to select multiple signals by holding the CTRL button and clicking or using the Shift button and keyboard arrows, or select all using the checkbox right below.</p>
 <p>Furthermore, the “Sampling Interval” field provides for an interval to sample the signals’ data. The user can fill the field using a variety of options, from seconds, to days and months. Then, the start and end date of the data need to be selected.</p>
 <p>After clicking the plotting button, if lexical expressions/string values are present in the data from the different signals, the add-on recognizes them and provides for a selection box that would colour the plot by the different values of the selected signal.</p>
 <br>

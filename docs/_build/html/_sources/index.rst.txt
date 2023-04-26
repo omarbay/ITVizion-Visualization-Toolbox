@@ -7,7 +7,7 @@
       :align: left
 
 Welcome to ITVizion Visualization toolbox's documentation!
-======================================
+==========================================================
 
 .. automodule:: ITV_visual.pairplot
     :members:
