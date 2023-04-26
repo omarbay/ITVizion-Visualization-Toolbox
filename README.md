@@ -152,6 +152,9 @@ After clicking the plotting button, if lexical expressions/string values are pre
 
 Lastly, a static line plot is generated for all the plots and shown at the bottom of the output.
 
+https://user-images.githubusercontent.com/56736042/234639163-6017df5d-332d-44bb-87af-9391c26a6866.mov
+
+
 # Documentation
 
 ### Violin Plot
