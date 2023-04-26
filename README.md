@@ -72,6 +72,8 @@ On the plot, the user can hover over the violin plot in order to access calculat
 
 Lastly, a static line plot is generated for all the plots and shown at the bottom of the output.
 
+https://user-images.githubusercontent.com/56736042/234637028-c0b16f55-9f42-45e7-a9a8-3748427279ef.MOV
+
 
 ## Interactive Pairplot
 
