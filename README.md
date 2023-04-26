@@ -81,7 +81,7 @@ The Pairplot_interactive class initializes an object that builds a GUI for an an
 <br>
 <table border="0">
  <tr>
-    <td><img alt="image" src="docs/_static/pair_plot_ui.png"></td>
+    <td><img alt="image" src="docs/source/_static/pair_plot_ui.png"></td>
  </tr>
  <tr>
     <td>Figure 2. User Interface of the Interactive Pairplot add-on.</td>
@@ -98,7 +98,7 @@ After clicking the plotting button, if lexical expressions/string values are pre
 <br>
 <table border="0">
  <tr>
-    <td><img alt="image" src="docs/_static/pair_plot_colour_by.png"></td>
+    <td><img alt="image" src="docs/source/_static/pair_plot_colour_by.png"></td>
  </tr>
  <tr>
     <td>Figure 3. Colour by option for string values.</td>
@@ -118,7 +118,7 @@ The Pairplot class initializes an object that builds a GUI for an analysis works
 <br>
 <table border="0">
  <tr>
-    <td><img alt="image" src="docs/_static/static_pair_plot_ui.png"></td>
+    <td><img alt="image" src="docs/source/_static/static_pair_plot_ui.png"></td>
  </tr>
  <tr>
     <td>Figure 4. User Interface of the Static Pairplot add-on.</td>
@@ -139,7 +139,7 @@ After clicking the plotting button, if lexical expressions/string values are pre
 <br>
 <table border="0">
  <tr>
-    <td><img alt="image" src="docs/_static/pair_plot_colour_by.png"></td>
+    <td><img alt="image" src="docs/source/_static/pair_plot_colour_by.png"></td>
  </tr>
  <tr>
     <td>Figure 5. Colour by option for string values.</td>
