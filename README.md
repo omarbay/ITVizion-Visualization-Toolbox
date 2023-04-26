@@ -27,7 +27,7 @@ If you want to install **ITV-visual** as a Seeq Add-on Tool, you will need:
 
 ## User Installation (Seeq Data Lab)
 
-The latest build of the project can be found [here](https://pypi.org/project/ITV-visual/) as a wheel file. The
+The latest build of the project can be found [here](https://pypi) as a wheel file. The
 file is published as a courtesy to the user, and it does not imply any obligation for support from the publisher.
 
 1. Create a **new** Seeq Data Lab project and open the **Terminal** window
