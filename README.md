@@ -110,6 +110,7 @@ After clicking the plotting button, if lexical expressions/string values are pre
 
 On the plot, the user can hover over the violin plot in order to access the values at selected points. The user will also be able to zoom in and out, hide signals, download the figures and more, using the buttons on the top right corner.
 
+https://user-images.githubusercontent.com/56736042/234638957-158100a6-e2cf-44ae-b8dc-e610bfc5ebdf.MOV
 
 ## Static Pairplot
 
