@@ -44,7 +44,7 @@ or use directly as an add-on through the preferred seeq workbook.
 ## Overview
 
 A general overview of the motivation for, benefits and functionality of the toolbox, as implemented in
-**ITVizion Visualization toolbox**, is provided in this section. A guide for browsing through and using each plot is presented below.
+**IT Vizion Visualization toolbox**, is provided in this section. A guide for browsing through and using each plot is presented below.
 
 ## Violin Plot
 
