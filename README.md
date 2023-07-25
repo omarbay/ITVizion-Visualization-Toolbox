@@ -5,7 +5,7 @@ distribution plots, line plots and violin plots. After applying the necessary da
 per parameter and identifying their relationships. The module includes a user interface (UI) designed to interact with the Seeq server. Specifically, the UI can be installed as an Add-on Tool
 in Seeq Workbench. 
 
-Developed by Omar Bayomie for IT Vizion partnering with Seeq (the source code is under proprietary protection of IT Vizion) 
+Developed by Omar Bayomie for IT Vizion partnering with Seeq (the source code is under proprietary protection) 
 
 
 # Installation
